@@ -1,6 +1,6 @@
 #         👨‍💻 First Project in React JS
  
-                         ![React](https://i.ibb.co/QDYtf6P/1-d-La-DL-l-SN0iprzm-Opm-M7z-Q.png)
+![React](https://i.ibb.co/QDYtf6P/1-d-La-DL-l-SN0iprzm-Opm-M7z-Q.png)
 
 
 # Step by Step
